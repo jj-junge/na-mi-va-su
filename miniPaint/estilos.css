@@ -1,0 +1,33 @@
+body, div{
+    padding: 0px;
+    margin: 0;
+}
+body{
+    background: #ededed;
+}
+#canvas{
+    border: 2px solid #ccc;
+    border-bottom: none;
+    
+}
+.editor{
+    width: fit-content;
+    margin: auto;
+    background: #fff;
+    margin-top: 30px;
+    
+}
+.buttons{
+    background: #111;
+    padding: 2px;
+}
+#lw {
+    width: 267px;
+    
+}
+#cor{
+    width: 25px;
+}
+.titulo{
+    text-align: center;
+}
